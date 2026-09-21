@@ -1,14 +1,6 @@
 # NNMA-4.1.1
 
 1. Скопируйте файл с заглушками:
-`
-cd src
-`
-,
-`
-copy .env.example .env
-`
-
 <details>
 <summary>1. Полное условие лабороторной работы</summary>
   
