@@ -3,6 +3,8 @@
 1. Скопируйте файл с заглушками:
 `
 cd src
+`
+`
 copy .env.example .env
 `
 
