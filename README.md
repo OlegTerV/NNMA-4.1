@@ -4,6 +4,7 @@
 `
 cd src
 `
+,
 `
 copy .env.example .env
 `
